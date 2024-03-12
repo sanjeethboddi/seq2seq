@@ -1,4 +1,3 @@
-from __future__ import absolute_import
 from recurrentshop import LSTMCell, RecurrentSequential
 from .cells import LSTMDecoderCell, AttentionDecoderCell
 from keras.models import Sequential, Model
